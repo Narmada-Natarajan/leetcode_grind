@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Narmada-Natarajan/leetcode_grind/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Narmada-Natarajan/leetcode_grind/tree/master/0189-rotate-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Narmada-Natarajan/leetcode_grind/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Narmada-Natarajan/leetcode_grind/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Narmada-Natarajan/leetcode_grind/tree/master/0189-rotate-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Narmada-Natarajan/leetcode_grind/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Sorting
 |  |
 | ------- |
@@ -29,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Narmada-Natarajan/leetcode_grind/tree/master/0189-rotate-array) |
+## Simulation
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Narmada-Natarajan/leetcode_grind/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
