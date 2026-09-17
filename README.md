@@ -7,18 +7,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Narmada-Natarajan/leetcode_grind/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Narmada-Natarajan/leetcode_grind/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Narmada-Natarajan/leetcode_grind/tree/master/0189-rotate-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Narmada-Natarajan/leetcode_grind/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Narmada-Natarajan/leetcode_grind/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Narmada-Natarajan/leetcode_grind/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Narmada-Natarajan/leetcode_grind/tree/master/0189-rotate-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Narmada-Natarajan/leetcode_grind/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Narmada-Natarajan/leetcode_grind/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Narmada-Natarajan/leetcode_grind/tree/master/0088-merge-sorted-array) |
 ## Quicksort
 |  |
 | ------- |
