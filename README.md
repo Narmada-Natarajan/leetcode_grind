@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Narmada-Natarajan/leetcode_grind/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Narmada-Natarajan/leetcode_grind/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Narmada-Natarajan/leetcode_grind/tree/master/0209-minimum-size-subarray-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Narmada-Natarajan/leetcode_grind/tree/master/0540-single-element-in-a-sorted-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Narmada-Natarajan/leetcode_grind/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Two Pointers
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Narmada-Natarajan/leetcode_grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Narmada-Natarajan/leetcode_grind/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Narmada-Natarajan/leetcode_grind/tree/master/0209-minimum-size-subarray-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Narmada-Natarajan/leetcode_grind/tree/master/0540-single-element-in-a-sorted-array) |
 ## Sliding Window
 |  |
 | ------- |
