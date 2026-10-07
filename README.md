@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Narmada-Natarajan/leetcode_grind/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Narmada-Natarajan/leetcode_grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Narmada-Natarajan/leetcode_grind/tree/master/0540-single-element-in-a-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Narmada-Natarajan/leetcode_grind/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Narmada-Natarajan/leetcode_grind/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Two Pointers
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Narmada-Natarajan/leetcode_grind/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Narmada-Natarajan/leetcode_grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Narmada-Natarajan/leetcode_grind/tree/master/0540-single-element-in-a-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Narmada-Natarajan/leetcode_grind/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Narmada-Natarajan/leetcode_grind/tree/master/0209-minimum-size-subarray-sum) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Narmada-Natarajan/leetcode_grind/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
